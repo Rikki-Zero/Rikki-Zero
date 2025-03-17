@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rikki
+### 👋 Hi, I'm Rikki
 
 ![GNU/Linux](https://img.shields.io/badge/-GNU/Linux-yellow?logo=linux&logoColor=white&style=for-the-badge)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1D99F3?logo=archlinux&logoColor=white&style=for-the-badge)
@@ -23,3 +23,9 @@
 
 |![](https://github-readme-stats.vercel.app/api?username=Rikki-Zero&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikki-Zero&layout=compact&theme=github_dark_dimmed)|
 | --- | --- |
+### How to reach me?
+
+#### PGP Fingerprint
+```
+64E0 AFAB 8D5F DCDE 789E 1530 85E5 2EEE 4257 8D11
+```
