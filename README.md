@@ -21,7 +21,7 @@
 
 ![FSF Member](https://static.fsf.org/nosvn/associate/crm/6584359.png)
 
-|![](https://github-readme-stats.vercel.app/api?username=Rikki-Zero&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikki-Zero&layout=compact&theme=github_dark_dimmed)|
+|![](https://github-readme-stats.vercel.app/api?username=Rikka-Sei&show_icons=true&theme=github_dark_dimmed)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rikka-Sei&layout=compact&theme=github_dark_dimmed)|
 | --- | --- |
 ### How to reach me?
 
